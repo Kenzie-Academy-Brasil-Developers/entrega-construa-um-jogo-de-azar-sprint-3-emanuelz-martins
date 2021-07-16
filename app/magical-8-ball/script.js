@@ -24,7 +24,7 @@ const getAnswer = () => {
 const response = (index) => {
     const img = document.createElement('img');
     img.className = 'animate-gif';            
-    img.src = `/assets/gifs/${index}.gif`;
+    img.src = `../../assets/gifs/${index}.gif`;
     emptyDiv.appendChild(img);
 }
 

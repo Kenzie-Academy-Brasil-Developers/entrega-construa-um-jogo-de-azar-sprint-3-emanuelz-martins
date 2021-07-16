@@ -143,8 +143,8 @@ button {
         background: var(--button-hover);
         cursor: pointer;
         max-height: 60px;
-        max-width: 20vw;
-        width: 100%;
+        max-width: 15vw;
+        width: 90%;
         height: 100%;
     }
 
